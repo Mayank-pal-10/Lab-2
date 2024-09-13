@@ -1,0 +1,35 @@
+/** Step one **/
+h1,h2,h3{
+        font-family: "Fascinate Inline", system-ui;
+        font-weight: 400;
+        font-style: normal;
+}
+/** Step two **/
+
+h1{
+    font-size: 46px;
+    letter-spacing: 1.75px;
+    text-align: center;
+    color: aqua;
+}
+
+a,p,li{
+      font-family: "Handjet", sans-serif;
+
+    }
+
+p span{
+ color:chartreuse;
+}
+
+h3{
+    font-size: 100px;
+    text-shadow: 4px 3px 4px rgba(0, 0, 0, .7);
+}
+/** Step three **/
+
+/** Step four **/
+
+/** Step five **/
+
+/** Step six **/
